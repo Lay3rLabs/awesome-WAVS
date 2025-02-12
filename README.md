@@ -22,8 +22,8 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 
 
 ## Rust 🦀
-- [Rust language cheat sheet](https://cheats.rs/) - a cheat sheet for those new to Rust.
-- [Let's Get Rusty cheat sheet](https://archive.org/details/lgr-cheat-sheet) - a book-style cheat sheet.
+- [Rust language cheat sheet](https://cheats.rs/) - A cheat sheet for those new to Rust.
+- [Let's Get Rusty cheat sheet](https://archive.org/details/lgr-cheat-sheet) - A book-style cheat sheet.
 - [Learn Rust](https://www.rust-lang.org/learn) - Resources for learning Rust.
 - [Rust book](https://doc.rust-lang.org/book/) - an overview of the language from first principles.
 
