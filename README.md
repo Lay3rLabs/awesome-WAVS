@@ -32,8 +32,11 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 
 - [webassembly.org](https://webassembly.org/) - Learn about WASM.
 - [wasi.dev](https://wasi.dev/) - All about the WebAssembly System Interface.
-- [The WebAssembly Component Model](https://component-model.bytecodealliance.org/) - Docs for developers using the component model.
-
+- [WebAssembly Component Model](https://component-model.bytecodealliance.org/) - Learn about the component model.
+- [cargo-component](https://github.com/bytecodealliance/cargo-component) - A cargo subcommand for building WebAssembly components. 
+- [WAC (WebAssembly Composition)](https://github.com/bytecodealliance/wac) - A tool for composing WebAssembly components together.
+- [componentize-py](https://github.com/bytecodealliance/componentize-py) - Convert a Python app to a WebAssembly component.
+- [ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) - Convert JavaScript source code to a WebAssembly component.
 ## AVS Resources 📚
 
 - [Awesome AVS](https://github.com/Layr-Labs/awesome-avs) - Awesome resources for AVS builders.
