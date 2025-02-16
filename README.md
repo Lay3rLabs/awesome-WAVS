@@ -12,14 +12,15 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 ## About 🌊
 - [Docs](https://docs.wavs.xyz/) - Official documentation.
 - [WAVS Overview](https://docs.wavs.xyz/overview) - Learn about WAVS.
-- [How WAVS works](https://docs.wavs.xyz/how-it-works) - An in-depth look at WAVS.
+- [How WAVS Works](https://docs.wavs.xyz/how-it-works) - An in-depth look at WAVS.
 - [What Is WAVS?](https://www.layer.xyz/news-and-insights/what-is-wavs-framework-avs-layer) - A blog post introducing WAVS.
 
-## Get Started 🏁
-- WAVS tutorial - Build an AVS in less than 5 minutes.
-- [WAVS Template](https://github.com/Lay3rLabs/wavs-foundry-template) - A Foundry template for building with WAVS. 
-- [WAVS Demos](https://github.com/Lay3rLabs/wavs-demos) - 🕶️ Cool demos that use WAVS 🌊.
+## Start Building 🏁
 
+- [WAVS Tutorial](https://docs.wavs.xyz/tutorial/1-overview) - Build a demo oracle service in less than 5 minutes.
+- [WAVS Template](https://github.com/Lay3rLabs/wavs-foundry-template) - A Foundry template for building with WAVS.
+- [WAVS Demos](https://github.com/Lay3rLabs/wavs-demos) - 🕶️ Cool demos that use WAVS 🌊.
+- [`wavs-types`](https://docs.rs/wavs-types/0.3.0-alpha5/wavs_types/index.html) - Crate docs defining core data structures and types used for building and interacting with components and services.
 
 ## Rust 🦀
 - [Rust language cheat sheet](https://cheats.rs/) - A cheat sheet for those new to Rust.
