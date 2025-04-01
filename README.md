@@ -21,6 +21,7 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 - [WAVS Template](https://github.com/Lay3rLabs/wavs-foundry-template) - A Foundry template for building with WAVS.
 - [WAVS Demos](https://github.com/Lay3rLabs/wavs-demos) - 🕶️ Cool demos that use WAVS 🌊.
 - [`wavs-types`](https://docs.rs/wavs-types/0.3.0-alpha5/wavs_types/index.html) - Crate docs defining core data structures and types used for building and interacting with components and services.
+- [WAVS-WASI-Chain](https://docs.rs/wavs-wasi-chain/latest/wavs_wasi_chain/index.html) - Crate docs with a set of helpful functions for making HTTP requests, interacting with the blockchain, and decoding trigger data for use in the component.
 - [WAVS Solidity Interfaces](https://www.npmjs.com/package/@wavs/solidity?activeTab=code) - The NPM package code with contract interfaces.
 
 ## Rust 🦀
