@@ -9,32 +9,49 @@ developed.](https://img.shields.io/badge/repo%20status-Active-green.svg?style=fl
 A curated list of awesome resources for building with WAVS: The WASI-AVS runtime.
 
 ## About 🌊
+
 - [Docs](https://docs.wavs.xyz/) - Official documentation.
 - [WAVS Overview](https://docs.wavs.xyz/overview) - Learn about WAVS.
 - [How WAVS Works](https://docs.wavs.xyz/how-it-works) - An in-depth look at WAVS.
 - [What Is WAVS?](https://www.layer.xyz/news-and-insights/what-is-wavs-framework-avs-layer) - A blog post introducing WAVS.
+- [WAVS Design Considerations](https://docs.wavs.xyz/design) - Learn what WAVS is best suited for.
+
 
 ## Start Building 🏁
 
 - [WAVS Tutorial](https://docs.wavs.xyz/tutorial/1-overview) - Build a demo oracle service in less than 5 minutes.
 - [WAVS Template](https://github.com/Lay3rLabs/wavs-foundry-template) - A Foundry template for building with WAVS.
+- [WAVS Component Handbook](https://docs.wavs.xyz/custom-components) - Everything you need to know to build a custom service.
 - [`wavs-types`](https://docs.rs/wavs-types/0.3.0-alpha5/wavs_types/index.html) - Crate docs defining core data structures and types used for building and interacting with components and services.
 - [WAVS-WASI-Chain](https://docs.rs/wavs-wasi-chain/latest/wavs_wasi_chain/index.html) - Crate docs with a set of helpful functions for making HTTP requests, interacting with the blockchain, and decoding trigger data for use in the component.
 - [WAVS Solidity Interfaces](https://www.npmjs.com/package/@wavs/solidity?activeTab=code) - The NPM package code with contract interfaces.
 
+## Videos 📺
+
+- [Layer Labs Youtube channel](https://www.youtube.com/@Layer_Labs)
+- [Infinite Layers - Simplifying EigenLayer Development with WAVS](https://www.youtube.com/watch?v=54wzvxoKUs)
+- [WAVS Prediction Market Demo](https://www.youtube.com/watch?v=BT0CjXCJhbY)
+- [Wavs Tutorial Walkthrough v0.3.0](https://www.youtube.com/watch?v=X3XCbSF9Epc)
+- [Build an EigenLayer Service in 13 minutes - With Nader (@dabit3)](https://x.com/dabit3/status/1909805584473268646)
+- [What is WAVS? - With Nader (@dabit3)](https://x.com/dabit3/status/1909805584473268646)
+- [Launch your first AVS in 13 minutes with WAVS - Coordinated podcast](https://www.youtube.com/watch?v=l6MgEziWo-I)
+
 ## WAVS Examples 😎
+
 - [Generative and Dynamic NFTs](https://github.com/Lay3rLabs/wavs-nft): make generative art without having to worry about gas limitations or dynamic NFTs that can automatically update based on events.
 - [Prediction Markets](https://github.com/Lay3rLabs/wavs-prediction-market): make custom AVS prediction market resolvers.
 - [Safe Modules and Guards](https://github.com/Lay3rLabs/wavs-safe): Gnosis Safe Modules and Guards that leverage verifiable offchain services.
 - [Hats](https://github.com/Lay3rLabs/wavs-hats): leverage WAVS + Hats Protocol to make powerful roles and permissions systems.
 
 ## Rust 🦀
+
 - [Rust language cheat sheet](https://cheats.rs/) - A cheat sheet for those new to Rust.
 - [Let's Get Rusty cheat sheet](https://archive.org/details/lgr-cheat-sheet) - A book-style cheat sheet.
 - [Learn Rust](https://www.rust-lang.org/learn) - Resources for learning Rust.
 - [Rust book](https://doc.rust-lang.org/book/) - an overview of the language from first principles.
 
 ## WASM/WASI 🕸️
+
 - [webassembly.org](https://webassembly.org/) - Learn about WASM.
 - [wasi.dev](https://wasi.dev/) - All about the WebAssembly System Interface.
 - [WebAssembly Component Model](https://component-model.bytecodealliance.org/) - Learn about the component model.
@@ -44,6 +61,7 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 - [ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) - Convert JavaScript source code to a WebAssembly component.
 
 ## AVS Resources 📚
+
 - [Awesome AVS](https://github.com/Layr-Labs/awesome-avs) - Awesome resources for AVS builders.
 - [You Could've Invented EigenLayer](https://www.blog.eigenlayer.xyz/ycie/) - An easy intro to EigenLayer.
 - [EigenLayer Docs](https://docs.eigenlayer.xyz/) - Learn all about EigenLayer services and restaking.
