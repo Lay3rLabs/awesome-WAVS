@@ -22,6 +22,10 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 - [WAVS Tutorial](https://docs.wavs.xyz/tutorial/1-overview) - Build a demo oracle service in less than 5 minutes.
 - [WAVS Template](https://github.com/Lay3rLabs/wavs-foundry-template) - A Foundry template for building with WAVS.
 - [WAVS Component Handbook](https://docs.wavs.xyz/custom-components) - Everything you need to know to build a custom service.
+
+- [WAVS Utils](https://github.com/Lay3rLabs/wavs-wasi%20): WASI utils and WIT interfaces.  
+- [WAVS Middleware](https://github.com/Lay3rLabs/wavs-middleware): Solidity contracts interfacing with Eigenlayer and more.  
+- [Climb](https://github.com/Lay3rLabs/climb): A Rust client for interacting with chains.
 - [`wavs-types`](https://docs.rs/wavs-types/0.3.0-alpha5/wavs_types/index.html) - Crate docs defining core data structures and types used for building and interacting with components and services.
 - [WAVS-WASI-Chain](https://docs.rs/wavs-wasi-chain/latest/wavs_wasi_chain/index.html) - Crate docs with a set of helpful functions for making HTTP requests, interacting with the blockchain, and decoding trigger data for use in the component.
 - [WAVS Solidity Interfaces](https://www.npmjs.com/package/@wavs/solidity?activeTab=code) - The NPM package code with contract interfaces.
@@ -32,16 +36,22 @@ A curated list of awesome resources for building with WAVS: The WASI-AVS runtime
 - [Infinite Layers - Simplifying EigenLayer Development with WAVS](https://www.youtube.com/watch?v=54wzvxoKUs)
 - [WAVS Prediction Market Demo](https://www.youtube.com/watch?v=BT0CjXCJhbY)
 - [Wavs Tutorial Walkthrough v0.3.0](https://www.youtube.com/watch?v=X3XCbSF9Epc)
+- [Build an AVS in 1 prompt with WAVS](https://www.youtube.com/watch?v=jyl7kbie41w)
 - [Build an EigenLayer Service in 13 minutes - With Nader (@dabit3)](https://x.com/dabit3/status/1909805584473268646)
 - [What is WAVS? - With Nader (@dabit3)](https://x.com/dabit3/status/1909805584473268646)
 - [Launch your first AVS in 13 minutes with WAVS - Coordinated podcast](https://www.youtube.com/watch?v=l6MgEziWo-I)
 
 ## WAVS Examples 😎
 
-- [Generative and Dynamic NFTs](https://github.com/Lay3rLabs/wavs-nft): make generative art without having to worry about gas limitations or dynamic NFTs that can automatically update based on events.
-- [Prediction Markets](https://github.com/Lay3rLabs/wavs-prediction-market): make custom AVS prediction market resolvers.
-- [Safe Modules and Guards](https://github.com/Lay3rLabs/wavs-safe): Gnosis Safe Modules and Guards that leverage verifiable offchain services.
-- [Hats](https://github.com/Lay3rLabs/wavs-hats): leverage WAVS + Hats Protocol to make powerful roles and permissions systems.
+- [Dynamic NFTs](https://github.com/Lay3rLabs/wavs-nft): NFTs that can leverage WAVS for generative art or dynamically update themselves based on events.  
+- [Multichain example](https://github.com/Lay3rLabs/wavs-multichain-example): An example showcasing multichain interactions.  
+- [Hats Protocol AVS](https://github.com/Lay3rLabs/wavs-hats): Hats Protocol modules that can interact with WAVS to toggle, mint, create, or control eligibility for roles and permissions.  
+- [Telegram Bot](https://github.com/Lay3rLabs/example-telegram-bot): Onchain events triggering telegram messages.  
+- [Prediction Market](https://github.com/Lay3rLabs/wavs-demos/blob/main/demos/PREDICTION_MARKET_DEMO.md): Use WAVS as the market resolver for prediction markets.  
+- [AI Controlled Safe](https://github.com/Lay3rLabs/wavs-demos/blob/main/demos/SAFE_AI_MODULE_DEMO.md): A Safe custom module controlled by a deterministic LLM.  
+- [WAVS Safe Guard](https://github.com/Lay3rLabs/wavs-demos/blob/main/demos/SAFE_GUARD_DEMO.md): A Safe Guard that can leverage off-chain checks to determine whether a transaction can be performed.  
+- [Cosmos \-\> Eth Bridge](https://github.com/Lay3rLabs/example-telegram-bot): A non-production example of a Cosmos to Ethereum bridge.
+
 
 ## Rust 🦀
 
